@@ -1,7 +1,7 @@
-let quant = 1
 
-while(quant<=10){
-    let num = quant * quant
-    alert(quant+"^2"+"="+num)
-    quant++
+let num = 10
+
+while(num <= 1){
+    alert(num)
+    num--
 }
